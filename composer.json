@@ -14,8 +14,11 @@
       "javascript"
     ]
   },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "dnadesign/silverstripe-elemental": ">=3",
-    "silvershop/silverstripe-hasonefield": "3.x-dev"
+    "silvershop/silverstripe-hasonefield": "3.x-dev",
+    "unclecheese/display-logic": "^2.0"
   }
 }
